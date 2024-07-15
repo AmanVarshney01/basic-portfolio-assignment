@@ -84,11 +84,6 @@ h2 {
       object-fit: cover;
     }
 
-    .image-1 {
-      /* border: 5px solid red; */
-      grid-row: 1 / 2;
-    }
-
     .image-2 {
       /* border: 5px solid pink; */
       grid-row: 1 / 2;
